@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\bin\Debug\net6.0\SredniaArtmetyczna.exe
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\bin\Debug\net6.0\SredniaArtmetyczna.deps.json
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\bin\Debug\net6.0\SredniaArtmetyczna.runtimeconfig.json
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\bin\Debug\net6.0\SredniaArtmetyczna.dll
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\bin\Debug\net6.0\SredniaArtmetyczna.pdb
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.dll
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\refint\SredniaArtmetyczna.dll
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.pdb
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\SredniaArtmetyczna.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\script\SredniaArtmetyczna\SredniaArtmetyczna\obj\Debug\net6.0\ref\SredniaArtmetyczna.dll
